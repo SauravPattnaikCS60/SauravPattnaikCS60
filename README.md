@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurav
 - 👀 I’m interested in the field of machine learning and natural language processing
 - 🌱 I’m currently learning cloud technologies(Azure) and MLOps
-- 💞️ I’m looking to collaborate on challenging projects related to natural language processing
+- :sunflower: I’m looking to collaborate on challenging projects related to natural language processing
 - 📫 How to reach me : Email : sauravpattnaik2011@gmail.com
 - 🐼 LinkedIn : www.linkedin.com/in/saurav-pattnaik-1b73b1151
 
